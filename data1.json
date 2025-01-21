@@ -1,0 +1,1394 @@
+[
+  {
+    "arabic_word": "يُزَلْزِلُ",
+    "turkish_meaning": "Sarsıyor / Sallıyor"
+  },
+  {
+    "arabic_word": "يُتْمٌ",
+    "turkish_meaning": "Yetim kalmak"
+  },
+  {
+    "arabic_word": "يَئِسُ",
+    "turkish_meaning": "Ümidini kesti"
+  },
+  {
+    "arabic_word": "يَيْقَظُ",
+    "turkish_meaning": "Uyanıyor / Uyanık oluyor"
+  },
+  {
+    "arabic_word": "يَيْتُمُ",
+    "turkish_meaning": "Yetim kalıyor"
+  },
+  {
+    "arabic_word": "يَوْجَلُ",
+    "turkish_meaning": "Korkuyor"
+  },
+  {
+    "arabic_word": "يَهْوَى",
+    "turkish_meaning": "Seviyor"
+  },
+  {
+    "arabic_word": "يَهَبُ",
+    "turkish_meaning": "Veriyor / bağışlıyor"
+  },
+  {
+    "arabic_word": "يَنْهَى",
+    "turkish_meaning": "Yasaklıyor / Nehyediyor"
+  },
+  {
+    "arabic_word": "يَنْصَحُ",
+    "turkish_meaning": "Öğütlüyor  // Nasihat ediyor"
+  },
+  {
+    "arabic_word": "يَنْسَى",
+    "turkish_meaning": "Unutuyor"
+  },
+  {
+    "arabic_word": "يَمْلَأُ",
+    "turkish_meaning": "Dolduruyor"
+  },
+  {
+    "arabic_word": "يَمَسُّ",
+    "turkish_meaning": "Dokunuyor // Temas ediyor"
+  },
+  {
+    "arabic_word": "يَلِي",
+    "turkish_meaning": "İş başına geliyor / Yönetiyor / Gözetiyor"
+  },
+  {
+    "arabic_word": "يَكْوِي",
+    "turkish_meaning": "Ütülüyor / dağlıyor"
+  },
+  {
+    "arabic_word": "يَقِي",
+    "turkish_meaning": "Koruyor , muhafaza ediyor"
+  },
+  {
+    "arabic_word": "يَقِنَ",
+    "turkish_meaning": "Kesin olarak bildi"
+  },
+  {
+    "arabic_word": "يَقِظَ",
+    "turkish_meaning": "Uyandı"
+  },
+  {
+    "arabic_word": "يَقَظٌ",
+    "turkish_meaning": "Uyanmak"
+  },
+  {
+    "arabic_word": "يَفِرُّ",
+    "turkish_meaning": "Kaçıyor"
+  },
+  {
+    "arabic_word": "يَعْرِفُ",
+    "turkish_meaning": "Biliyor / Tanıyor"
+  },
+  {
+    "arabic_word": "يَشْكُرُ",
+    "turkish_meaning": "Şükrediyor"
+  },
+  {
+    "arabic_word": "يَسْمَعُ",
+    "turkish_meaning": "İşitiyor // Dinliyor"
+  },
+  {
+    "arabic_word": "يَسْقِي",
+    "turkish_meaning": "Suluyor / Su veriyor"
+  },
+  {
+    "arabic_word": "يَسْأَلُ",
+    "turkish_meaning": "Soruyor  //  İstiyor"
+  },
+  {
+    "arabic_word": "يَسُرُّ",
+    "turkish_meaning": "Sevindiriyor"
+  },
+  {
+    "arabic_word": "يَسُرَ",
+    "turkish_meaning": "Kolay oldu"
+  },
+  {
+    "arabic_word": "يَزِيدُ",
+    "turkish_meaning": "Artırıyor,çoğaltıyor"
+  },
+  {
+    "arabic_word": "يَزُورُ",
+    "turkish_meaning": "Ziyaret ediyor"
+  },
+  {
+    "arabic_word": "يَرْؤُفُ",
+    "turkish_meaning": "Acıyor // Merhamet ediyor"
+  },
+  {
+    "arabic_word": "يَرِثُ",
+    "turkish_meaning": "Varis / Mirasçı oluyor"
+  },
+  {
+    "arabic_word": "يَدْعُو",
+    "turkish_meaning": "Çağırıyor,davet ediyor"
+  },
+  {
+    "arabic_word": "يَخَافُ",
+    "turkish_meaning": "Korkuyor"
+  },
+  {
+    "arabic_word": "يَحْسِبُ",
+    "turkish_meaning": "Sanıyor // Zannediyor"
+  },
+  {
+    "arabic_word": "يَجِدُ",
+    "turkish_meaning": "Buluyor"
+  },
+  {
+    "arabic_word": "يَتُمَ",
+    "turkish_meaning": "Yetim kaldı"
+  },
+  {
+    "arabic_word": "يَبْعُدُ",
+    "turkish_meaning": "Uzak oluyor"
+  },
+  {
+    "arabic_word": "يَبِسَ",
+    "turkish_meaning": "Kurudu , kuru oldu"
+  },
+  {
+    "arabic_word": "يَأْمُرُ",
+    "turkish_meaning": "Emrediyor"
+  },
+  {
+    "arabic_word": "يَأْلَفُ",
+    "turkish_meaning": "Alışıyor  //  Isınıyor"
+  },
+  {
+    "arabic_word": "يَأْسِرُ",
+    "turkish_meaning": "Esir alıyor"
+  },
+  {
+    "arabic_word": "وِلَايَةٌ",
+    "turkish_meaning": "Yönetmek"
+  },
+  {
+    "arabic_word": "وِقَايَةٌ",
+    "turkish_meaning": "Korumak"
+  },
+  {
+    "arabic_word": "وِرَاثَهٌ",
+    "turkish_meaning": "Varis olmak"
+  },
+  {
+    "arabic_word": "وُجُودٌ",
+    "turkish_meaning": "Bulmak"
+  },
+  {
+    "arabic_word": "وَهْبٌ",
+    "turkish_meaning": "Vermek"
+  },
+  {
+    "arabic_word": "وَهِيَ",
+    "turkish_meaning": "Sağlığı bozulmak , kötüleşmek"
+  },
+  {
+    "arabic_word": "وَهِمَ",
+    "turkish_meaning": "Yanıldı,hata etti"
+  },
+  {
+    "arabic_word": "وَهِلَ",
+    "turkish_meaning": "Zayıf ve korkak oldu"
+  },
+  {
+    "arabic_word": "وَهَبَ",
+    "turkish_meaning": "Verdi"
+  },
+  {
+    "arabic_word": "وَمِقَ",
+    "turkish_meaning": "Sevdi , sevgi besledi"
+  },
+  {
+    "arabic_word": "وَلِيَ",
+    "turkish_meaning": "Yönetti"
+  },
+  {
+    "arabic_word": "وَلَغَ",
+    "turkish_meaning": "Yaladı"
+  },
+  {
+    "arabic_word": "وَلَدَ",
+    "turkish_meaning": "Doğurdu"
+  },
+  {
+    "arabic_word": "وَكَزَ",
+    "turkish_meaning": "Dürttü"
+  },
+  {
+    "arabic_word": "وَقِرَ",
+    "turkish_meaning": "Kulağı işitmez oldu"
+  },
+  {
+    "arabic_word": "وَقَى",
+    "turkish_meaning": "Korudu"
+  },
+  {
+    "arabic_word": "وَفِقَ",
+    "turkish_meaning": "Uygun ve muvafık oldu"
+  },
+  {
+    "arabic_word": "وَفَى",
+    "turkish_meaning": "Vefalı oldu"
+  },
+  {
+    "arabic_word": "وَعَى",
+    "turkish_meaning": "Anladı,kavradı"
+  },
+  {
+    "arabic_word": "وَعَظَ",
+    "turkish_meaning": "Vazetti"
+  },
+  {
+    "arabic_word": "وَعَدَ",
+    "turkish_meaning": "Vadetti"
+  },
+  {
+    "arabic_word": "وَضَعَ",
+    "turkish_meaning": "Koydu"
+  },
+  {
+    "arabic_word": "وَصَفَ",
+    "turkish_meaning": "Anlattı"
+  },
+  {
+    "arabic_word": "وَشَى",
+    "turkish_meaning": "İspiyonladı ,gammazladı"
+  },
+  {
+    "arabic_word": "وَزَنَ",
+    "turkish_meaning": "Tarttı"
+  },
+  {
+    "arabic_word": "وَزَعَ",
+    "turkish_meaning": "Alıkoydu"
+  },
+  {
+    "arabic_word": "وَرِيَ",
+    "turkish_meaning": "Çakmak taşı çaktı"
+  },
+  {
+    "arabic_word": "وَرِثَ",
+    "turkish_meaning": "Varis oldu"
+  },
+  {
+    "arabic_word": "وَدَّ",
+    "turkish_meaning": "Sevdi"
+  },
+  {
+    "arabic_word": "وَدَعَ",
+    "turkish_meaning": "Bıraktı"
+  },
+  {
+    "arabic_word": "وَجِلَ",
+    "turkish_meaning": "Korktu"
+  },
+  {
+    "arabic_word": "وَجَلٌ",
+    "turkish_meaning": "Korkmak"
+  },
+  {
+    "arabic_word": "وَجَدَ",
+    "turkish_meaning": "Buldu"
+  },
+  {
+    "arabic_word": "وَثِقَ",
+    "turkish_meaning": "Güvendi"
+  },
+  {
+    "arabic_word": "هَوِيَ",
+    "turkish_meaning": "Sevdi"
+  },
+  {
+    "arabic_word": "هَوًى",
+    "turkish_meaning": "Sevmek"
+  },
+  {
+    "arabic_word": "هَزَّ",
+    "turkish_meaning": "Sarstı"
+  },
+  {
+    "arabic_word": "هَبْ",
+    "turkish_meaning": "Ver ! // Bağışla !"
+  },
+  {
+    "arabic_word": "هَابَ",
+    "turkish_meaning": "Korktu"
+  },
+  {
+    "arabic_word": "نِسْيَانٌ",
+    "turkish_meaning": "Unutmak"
+  },
+  {
+    "arabic_word": "نُصْحًا",
+    "turkish_meaning": "Nasihat etmek"
+  },
+  {
+    "arabic_word": "نَهْيٌ",
+    "turkish_meaning": "Yasaklamak"
+  },
+  {
+    "arabic_word": "نَهَى",
+    "turkish_meaning": "Yasakladı"
+  },
+  {
+    "arabic_word": "نَقَلَ",
+    "turkish_meaning": "Taşıdı"
+  },
+  {
+    "arabic_word": "نَظَرَ",
+    "turkish_meaning": "Baktı"
+  },
+  {
+    "arabic_word": "نَصَحَ",
+    "turkish_meaning": "Öğütledi"
+  },
+  {
+    "arabic_word": "نَسِيَ",
+    "turkish_meaning": "Unuttu"
+  },
+  {
+    "arabic_word": "نَامَ",
+    "turkish_meaning": "Uyudu"
+  },
+  {
+    "arabic_word": "نَالَ",
+    "turkish_meaning": "Kazandı"
+  },
+  {
+    "arabic_word": "مُرْ",
+    "turkish_meaning": "Emret !"
+  },
+  {
+    "arabic_word": "مَنَعَ",
+    "turkish_meaning": "Engelledi"
+  },
+  {
+    "arabic_word": "مَنَحَ",
+    "turkish_meaning": "Verdi"
+  },
+  {
+    "arabic_word": "مَلَّ",
+    "turkish_meaning": "Usandı"
+  },
+  {
+    "arabic_word": "مَلْءٌ",
+    "turkish_meaning": "Doldurmak"
+  },
+  {
+    "arabic_word": "مَلَأَ",
+    "turkish_meaning": "Doldurdu"
+  },
+  {
+    "arabic_word": "مَعْرِفَهٌ",
+    "turkish_meaning": "Bilmek"
+  },
+  {
+    "arabic_word": "مَسَّ",
+    "turkish_meaning": "Dokun ! // Temas et !"
+  },
+  {
+    "arabic_word": "مَسَّ",
+    "turkish_meaning": "Dokundu"
+  },
+  {
+    "arabic_word": "مَسٌّ",
+    "turkish_meaning": "Dokunmak"
+  },
+  {
+    "arabic_word": "مَدَّ",
+    "turkish_meaning": "Uzattı      "
+  },
+  {
+    "arabic_word": "مَدَحَ",
+    "turkish_meaning": "Övdü"
+  },
+  {
+    "arabic_word": "مَحَا",
+    "turkish_meaning": "Sildi"
+  },
+  {
+    "arabic_word": "لِ",
+    "turkish_meaning": "Yönet ! // Gözet !"
+  },
+  {
+    "arabic_word": "لَؤُمَ",
+    "turkish_meaning": "Adi ve alçak oldu"
+  },
+  {
+    "arabic_word": "لَوَى",
+    "turkish_meaning": "Eğdi"
+  },
+  {
+    "arabic_word": "لَوَى",
+    "turkish_meaning": "Niyetlendi"
+  },
+  {
+    "arabic_word": "لَقِيَ",
+    "turkish_meaning": "Karşılaştı , görüştü,buluştu"
+  },
+  {
+    "arabic_word": "لَجَأَ",
+    "turkish_meaning": "Sığındı"
+  },
+  {
+    "arabic_word": "لَامَ",
+    "turkish_meaning": "Kınadı"
+  },
+  {
+    "arabic_word": "كَيٌ",
+    "turkish_meaning": "Ütülemek"
+  },
+  {
+    "arabic_word": "كَوَى",
+    "turkish_meaning": "Ütüledi"
+  },
+  {
+    "arabic_word": "كَسَا",
+    "turkish_meaning": "Giydirdi"
+  },
+  {
+    "arabic_word": "كَرُمَ",
+    "turkish_meaning": "Cömert oldu"
+  },
+  {
+    "arabic_word": "كَالَ",
+    "turkish_meaning": "Ölçüp verdi"
+  },
+  {
+    "arabic_word": "قِ",
+    "turkish_meaning": "Koru ! // Muhafaza et !"
+  },
+  {
+    "arabic_word": "قَوِيَ",
+    "turkish_meaning": "Güçlü kuvvetli oldu"
+  },
+  {
+    "arabic_word": "قَرَى",
+    "turkish_meaning": "Ağırladı"
+  },
+  {
+    "arabic_word": "قَرَأَ",
+    "turkish_meaning": "Okudu"
+  },
+  {
+    "arabic_word": "قَتَلَ",
+    "turkish_meaning": "Öldürdü"
+  },
+  {
+    "arabic_word": "قَاسَ",
+    "turkish_meaning": "Kıyas etti"
+  },
+  {
+    "arabic_word": "قَادَ",
+    "turkish_meaning": "Yönetti"
+  },
+  {
+    "arabic_word": "فِرَّ",
+    "turkish_meaning": "Kaç !"
+  },
+  {
+    "arabic_word": "فِرَارٌ",
+    "turkish_meaning": "Kaçmak "
+  },
+  {
+    "arabic_word": "فَهِمَ",
+    "turkish_meaning": "Anladı"
+  },
+  {
+    "arabic_word": "فَصَلَ",
+    "turkish_meaning": "Ayırdı"
+  },
+  {
+    "arabic_word": "فَرَّ",
+    "turkish_meaning": "Kaçtı"
+  },
+  {
+    "arabic_word": "فَاقَ",
+    "turkish_meaning": "Üstün oldu"
+  },
+  {
+    "arabic_word": "غَفَرَ",
+    "turkish_meaning": "Affetti"
+  },
+  {
+    "arabic_word": "غَزَا",
+    "turkish_meaning": "Savaştı"
+  },
+  {
+    "arabic_word": "غَارَ",
+    "turkish_meaning": "Kıskandı"
+  },
+  {
+    "arabic_word": "عَضَّ",
+    "turkish_meaning": "Isırdı"
+  },
+  {
+    "arabic_word": "عَصَمَ",
+    "turkish_meaning": "Korudu"
+  },
+  {
+    "arabic_word": "عَرَفَ",
+    "turkish_meaning": "Bildi"
+  },
+  {
+    "arabic_word": "عَدَّ",
+    "turkish_meaning": "Saydı"
+  },
+  {
+    "arabic_word": "عَابَ",
+    "turkish_meaning": "Ayıpladı"
+  },
+  {
+    "arabic_word": "ظَلَّ",
+    "turkish_meaning": "Kaldı"
+  },
+  {
+    "arabic_word": "طَوَى",
+    "turkish_meaning": "Katladı"
+  },
+  {
+    "arabic_word": "طَمْأَنَ",
+    "turkish_meaning": "İçini rahatlattı"
+  },
+  {
+    "arabic_word": "طَغَى",
+    "turkish_meaning": "Haddi aştı"
+  },
+  {
+    "arabic_word": "ضَؤُلَ",
+    "turkish_meaning": "Zayıf ve cılız oldu"
+  },
+  {
+    "arabic_word": "ضَلَّ",
+    "turkish_meaning": "Yoldan çıktı ,saptı"
+  },
+  {
+    "arabic_word": "ضَرَبَ",
+    "turkish_meaning": "Vurdu"
+  },
+  {
+    "arabic_word": "ضَبَطَ",
+    "turkish_meaning": "Tuttu"
+  },
+  {
+    "arabic_word": "صَحَّ",
+    "turkish_meaning": "Doğru oldu"
+  },
+  {
+    "arabic_word": "صَانَ",
+    "turkish_meaning": "Korudu"
+  },
+  {
+    "arabic_word": "صَادَ",
+    "turkish_meaning": "Avladı"
+  },
+  {
+    "arabic_word": "شُكْراً",
+    "turkish_meaning": "Şükretmek"
+  },
+  {
+    "arabic_word": "شَوَى",
+    "turkish_meaning": "Izgara yaptı"
+  },
+  {
+    "arabic_word": "شَهِدَ",
+    "turkish_meaning": "Tanık oldu"
+  },
+  {
+    "arabic_word": "شَكَرَ",
+    "turkish_meaning": "Şükretti"
+  },
+  {
+    "arabic_word": "شَكَا",
+    "turkish_meaning": "Şikayet etti"
+  },
+  {
+    "arabic_word": "شَفَى",
+    "turkish_meaning": "İyileştirdi"
+  },
+  {
+    "arabic_word": "شَدَّ",
+    "turkish_meaning": "Çekti"
+  },
+  {
+    "arabic_word": "شَجُعَ",
+    "turkish_meaning": "Cesur oldu"
+  },
+  {
+    "arabic_word": "شَاءَ",
+    "turkish_meaning": "Diledi"
+  },
+  {
+    "arabic_word": "سُؤَالٌ",
+    "turkish_meaning": "Sormak"
+  },
+  {
+    "arabic_word": "سُرَّ",
+    "turkish_meaning": "Sevindir"
+  },
+  {
+    "arabic_word": "سُرُورٌ",
+    "turkish_meaning": "Sevindirmek"
+  },
+  {
+    "arabic_word": "سَوِيَ",
+    "turkish_meaning": "Düzgün oldu"
+  },
+  {
+    "arabic_word": "سَمِعَ",
+    "turkish_meaning": "İşitti"
+  },
+  {
+    "arabic_word": "سَمَاعٌ",
+    "turkish_meaning": "İşitmek"
+  },
+  {
+    "arabic_word": "سَلْسَلَ",
+    "turkish_meaning": "Zincire bağladı"
+  },
+  {
+    "arabic_word": "سَقْيٌ",
+    "turkish_meaning": "Sulamak"
+  },
+  {
+    "arabic_word": "سَقَى",
+    "turkish_meaning": "Suladı"
+  },
+  {
+    "arabic_word": "سَعِدَ",
+    "turkish_meaning": "Sevindi"
+  },
+  {
+    "arabic_word": "سَعَى",
+    "turkish_meaning": "Çalıştı ,çabaladı"
+  },
+  {
+    "arabic_word": "سَرَّ",
+    "turkish_meaning": "Sevindirdi"
+  },
+  {
+    "arabic_word": "سَرَقَ",
+    "turkish_meaning": "Çaldı"
+  },
+  {
+    "arabic_word": "سَحَبَ",
+    "turkish_meaning": "Çekti"
+  },
+  {
+    "arabic_word": "سَأَلَ",
+    "turkish_meaning": "Sordu"
+  },
+  {
+    "arabic_word": "سَأَرَ",
+    "turkish_meaning": "Öç aldı"
+  },
+  {
+    "arabic_word": "سَاقَ",
+    "turkish_meaning": "Sevk etti"
+  },
+  {
+    "arabic_word": "زِيَارَةٌ",
+    "turkish_meaning": "Ziyaret etmek"
+  },
+  {
+    "arabic_word": "زِيَادَتٌ",
+    "turkish_meaning": "Arttırmak"
+  },
+  {
+    "arabic_word": "زِدْ",
+    "turkish_meaning": "Artır ! // Çoğalt !"
+  },
+  {
+    "arabic_word": "زُرْ",
+    "turkish_meaning": "Ziyaret et !"
+  },
+  {
+    "arabic_word": "زَلْزِلْ",
+    "turkish_meaning": "Sars ! // Salla !"
+  },
+  {
+    "arabic_word": "زَلْزَلَةٌ",
+    "turkish_meaning": "Sarsmak"
+  },
+  {
+    "arabic_word": "زَلْزَلَ",
+    "turkish_meaning": "Sarstı"
+  },
+  {
+    "arabic_word": "زَبَحَ",
+    "turkish_meaning": "Boğazladı"
+  },
+  {
+    "arabic_word": "زَأَرَ",
+    "turkish_meaning": "Kükredi"
+  },
+  {
+    "arabic_word": "زَارَ",
+    "turkish_meaning": "Ziyaret etti"
+  },
+  {
+    "arabic_word": "زَادَ",
+    "turkish_meaning": "Artırdı"
+  },
+  {
+    "arabic_word": "رِثْ",
+    "turkish_meaning": "Varis ol !"
+  },
+  {
+    "arabic_word": "رَؤُفَ",
+    "turkish_meaning": "Acıdı"
+  },
+  {
+    "arabic_word": "رَؤُسَ",
+    "turkish_meaning": "Baş ve reis oldu"
+  },
+  {
+    "arabic_word": "رَوِيَ",
+    "turkish_meaning": "Suya kandı,suya doydu"
+  },
+  {
+    "arabic_word": "رَوَى",
+    "turkish_meaning": "Rivayet etti"
+  },
+  {
+    "arabic_word": "رَقَّ",
+    "turkish_meaning": "Acıdı , merhamet etti"
+  },
+  {
+    "arabic_word": "رَعَى",
+    "turkish_meaning": "Güttü ; bakımını yaptı"
+  },
+  {
+    "arabic_word": "رَسَمَ",
+    "turkish_meaning": "Çizdi"
+  },
+  {
+    "arabic_word": "رَدَّ",
+    "turkish_meaning": "Reddetti"
+  },
+  {
+    "arabic_word": "رَجَا",
+    "turkish_meaning": "Rica etti"
+  },
+  {
+    "arabic_word": "رَأْفَةٌ",
+    "turkish_meaning": "Acımak"
+  },
+  {
+    "arabic_word": "رَامَ",
+    "turkish_meaning": "Arzuladı"
+  },
+  {
+    "arabic_word": "دَعْوَةٌ",
+    "turkish_meaning": "Çağırmak"
+  },
+  {
+    "arabic_word": "دَعَا",
+    "turkish_meaning": "Çağırdı"
+  },
+  {
+    "arabic_word": "دَرَأَ",
+    "turkish_meaning": "Kovdu"
+  },
+  {
+    "arabic_word": "دَحْرَجَ",
+    "turkish_meaning": "Yuvarladı"
+  },
+  {
+    "arabic_word": "خَوْفٌ",
+    "turkish_meaning": "Korkmak"
+  },
+  {
+    "arabic_word": "خَفْ",
+    "turkish_meaning": "Kork !"
+  },
+  {
+    "arabic_word": "خَفِيَ",
+    "turkish_meaning": "Gizli oldu,gizli kaldı"
+  },
+  {
+    "arabic_word": "خَفِظَ",
+    "turkish_meaning": "Korudu"
+  },
+  {
+    "arabic_word": "خَشِيَ",
+    "turkish_meaning": "Korktu"
+  },
+  {
+    "arabic_word": "خَبَأَ",
+    "turkish_meaning": "Sakladı"
+  },
+  {
+    "arabic_word": "خَالَ",
+    "turkish_meaning": "Sandı"
+  },
+  {
+    "arabic_word": "خَافَ",
+    "turkish_meaning": "Korktu"
+  },
+  {
+    "arabic_word": "حِسْبَانٌ",
+    "turkish_meaning": "Zannetmek"
+  },
+  {
+    "arabic_word": "حَوَى",
+    "turkish_meaning": "İçerdi"
+  },
+  {
+    "arabic_word": "حَمِدَ",
+    "turkish_meaning": "Övdü"
+  },
+  {
+    "arabic_word": "حَمَى",
+    "turkish_meaning": "Korudu"
+  },
+  {
+    "arabic_word": "حَكَمَ",
+    "turkish_meaning": "Yönetti"
+  },
+  {
+    "arabic_word": "حَضَّ",
+    "turkish_meaning": "Teşvik etti"
+  },
+  {
+    "arabic_word": "حَسِبَ",
+    "turkish_meaning": "Sandı"
+  },
+  {
+    "arabic_word": "جِدْ",
+    "turkish_meaning": "Bul !"
+  },
+  {
+    "arabic_word": "جَهِلَ",
+    "turkish_meaning": "Bilmedi"
+  },
+  {
+    "arabic_word": "جَنَى",
+    "turkish_meaning": "Topladı"
+  },
+  {
+    "arabic_word": "جَمُلَ",
+    "turkish_meaning": "Güzel oldu"
+  },
+  {
+    "arabic_word": "جَعَلَ",
+    "turkish_meaning": "Kıldı"
+  },
+  {
+    "arabic_word": "جَاءَ",
+    "turkish_meaning": "Geldi"
+  },
+  {
+    "arabic_word": "تَلَا",
+    "turkish_meaning": "Okudu"
+  },
+  {
+    "arabic_word": "تَرَكَ",
+    "turkish_meaning": "Bıraktı"
+  },
+  {
+    "arabic_word": "بُعْدٌ",
+    "turkish_meaning": "Uzak olmak"
+  },
+  {
+    "arabic_word": "بَنَى",
+    "turkish_meaning": "İnşa etti"
+  },
+  {
+    "arabic_word": "بَعُدَ",
+    "turkish_meaning": "Uzak oldu"
+  },
+  {
+    "arabic_word": "بَرَأَ",
+    "turkish_meaning": "Yarattı"
+  },
+  {
+    "arabic_word": "بَدَأَ",
+    "turkish_meaning": "Başladı"
+  },
+  {
+    "arabic_word": "بَاعَ",
+    "turkish_meaning": "Sattı"
+  },
+  {
+    "arabic_word": "أَنِسَ",
+    "turkish_meaning": "Kendine yakın buldu"
+  },
+  {
+    "arabic_word": "أَمْرٌ",
+    "turkish_meaning": "Emretmek"
+  },
+  {
+    "arabic_word": "أَمَرَ",
+    "turkish_meaning": "Emretti"
+  },
+  {
+    "arabic_word": "أَلِفَ",
+    "turkish_meaning": "Alıştı"
+  },
+  {
+    "arabic_word": "أَكَلَ",
+    "turkish_meaning": "Yedi"
+  },
+  {
+    "arabic_word": "أَفَلَ",
+    "turkish_meaning": "Kayboldu, battı"
+  },
+  {
+    "arabic_word": "أَفَكَ",
+    "turkish_meaning": "İftira etti , lekeledi"
+  },
+  {
+    "arabic_word": "أَسْرٌ",
+    "turkish_meaning": "Esir almak"
+  },
+  {
+    "arabic_word": "أَسِفَ",
+    "turkish_meaning": "Üzüldü , esef etti"
+  },
+  {
+    "arabic_word": "أَسَرَ",
+    "turkish_meaning": "Esir aldı"
+  },
+  {
+    "arabic_word": "أَزِنَ",
+    "turkish_meaning": "İzin verdi"
+  },
+  {
+    "arabic_word": "أَدَمَ",
+    "turkish_meaning": "Katık etti , katık yaptı"
+  },
+  {
+    "arabic_word": "أَخَزَ",
+    "turkish_meaning": "Aldı"
+  },
+  {
+    "arabic_word": "أَتَى",
+    "turkish_meaning": "Geldi"
+  },
+  {
+    "arabic_word": "إِلْفٌ",
+    "turkish_meaning": "Alışmak"
+  },
+  {
+    "arabic_word": "اِيلَفْ",
+    "turkish_meaning": "Alış ! // Isın !"
+  },
+  {
+    "arabic_word": "اِيقَظْ",
+    "turkish_meaning": "Uyanık ol !"
+  },
+  {
+    "arabic_word": "اِيسِرْ",
+    "turkish_meaning": "Esir al !"
+  },
+  {
+    "arabic_word": "اِهْوَ",
+    "turkish_meaning": "Sev !"
+  },
+  {
+    "arabic_word": "اِنْهَ",
+    "turkish_meaning": "Yasakla ! // Nehyet !"
+  },
+  {
+    "arabic_word": "اِنْصَحْ",
+    "turkish_meaning": "Öğütle ! // Nasihat et !"
+  },
+  {
+    "arabic_word": "اِنْسَ",
+    "turkish_meaning": "Unut !"
+  },
+  {
+    "arabic_word": "اِمْلَأْ",
+    "turkish_meaning": "Doldur !"
+  },
+  {
+    "arabic_word": "اِكْوِ",
+    "turkish_meaning": "Ütüle ! // Dağla !"
+  },
+  {
+    "arabic_word": "اِعْرِفْ",
+    "turkish_meaning": "Bil ! // Tanı !"
+  },
+  {
+    "arabic_word": "اِسأَلْ",
+    "turkish_meaning": "Sor !  //  İste !"
+  },
+  {
+    "arabic_word": "اِسْمَعَ",
+    "turkish_meaning": "İşit ! // Dinle !"
+  },
+  {
+    "arabic_word": "اِسْقِ",
+    "turkish_meaning": "Sula ! //  Su ver !"
+  },
+  {
+    "arabic_word": "اِحْسِبْ",
+    "turkish_meaning": "Zannet ! //  San !"
+  },
+  {
+    "arabic_word": "اِبجَلْ",
+    "turkish_meaning": "Kork !"
+  },
+  {
+    "arabic_word": "اُوتُمْ",
+    "turkish_meaning": "Yetim kal !"
+  },
+  {
+    "arabic_word": "اُشْكُرْ",
+    "turkish_meaning": "Şükret ! // Teşekkür et !"
+  },
+  {
+    "arabic_word": "اُرْؤُفْ",
+    "turkish_meaning": "Acı ! // Merhamet et !"
+  },
+  {
+    "arabic_word": "اُدْعُ",
+    "turkish_meaning": "Çağır ! // Davet et !"
+  },
+  {
+    "arabic_word": "اُبْعُدْ",
+    "turkish_meaning": "Uzak ol ! // Kaybol !"
+  },
+  {
+    "arabic_word": "شُكِرَ",
+    "turkish_meaning": "Şükredildi"
+  },
+  {
+    "arabic_word": "يٌشْكَرُ",
+    "turkish_meaning": "Şükrediliyor // teşekkür ediliyor"
+  },
+  {
+    "arabic_word": "آتِ",
+    "turkish_meaning": "Ver !"
+  },
+  {
+    "arabic_word": "آتَى",
+    "turkish_meaning": "Verdi"
+  },
+  {
+    "arabic_word": "آزَى",
+    "turkish_meaning": "Eziyet ve işkence etti"
+  },
+  {
+    "arabic_word": "آلَى",
+    "turkish_meaning": "Yemin etti"
+  },
+  {
+    "arabic_word": "آثَرَ",
+    "turkish_meaning": "Tercih etti , üstün tuttu"
+  },
+  {
+    "arabic_word": "آثِرْ",
+    "turkish_meaning": "Tercih et ! // Üstün tut !"
+  },
+  {
+    "arabic_word": "آجَرَ",
+    "turkish_meaning": "Kiraladı , kiraya verdi"
+  },
+  {
+    "arabic_word": "آمَنَ",
+    "turkish_meaning": "İman etti,inandı"
+  },
+  {
+    "arabic_word": "آنَسَ",
+    "turkish_meaning": "Birine hoşça davrandı"
+  },
+  {
+    "arabic_word": "أَطِعْ",
+    "turkish_meaning": "İtaat et ! // Boyun eğ !"
+  },
+  {
+    "arabic_word": "أَعْطِ",
+    "turkish_meaning": "Ver !"
+  },
+  {
+    "arabic_word": "أَوْفِ",
+    "turkish_meaning": "Vefalı ol ! // Sözünde dur !"
+  },
+  {
+    "arabic_word": "يُوفِي",
+    "turkish_meaning": "Vefa gösteriyor"
+  },
+  {
+    "arabic_word": "أَجْرَى",
+    "turkish_meaning": "Yaptı,icra etti"
+  },
+  {
+    "arabic_word": "أَجْفَى",
+    "turkish_meaning": "Gizledi , sakladı"
+  },
+  {
+    "arabic_word": "أَحَبَّ",
+    "turkish_meaning": "Sevdi,istedi"
+  },
+  {
+    "arabic_word": "أَدَارَ",
+    "turkish_meaning": "İdare etti , yönetti"
+  },
+  {
+    "arabic_word": "أَرَادَ",
+    "turkish_meaning": "İstedi,diledi"
+  },
+  {
+    "arabic_word": "أَصَابَ",
+    "turkish_meaning": "İsabet etti"
+  },
+  {
+    "arabic_word": "أَصَرَّ",
+    "turkish_meaning": "Israr etti"
+  },
+  {
+    "arabic_word": "أَضَلَّ",
+    "turkish_meaning": "Saptırdı , yoldan çıkardı"
+  },
+  {
+    "arabic_word": "أَضِلَّ",
+    "turkish_meaning": "Saptır ! // Yoldan çıkar !"
+  },
+  {
+    "arabic_word": "أَطَاعَ",
+    "turkish_meaning": "İtaat etti , boyun eğdi"
+  },
+  {
+    "arabic_word": "أَعَدَّ",
+    "turkish_meaning": "Hazırladı"
+  },
+  {
+    "arabic_word": "أَعْطَى",
+    "turkish_meaning": "Verdi"
+  },
+  {
+    "arabic_word": "أَلْقَى",
+    "turkish_meaning": "Attı , fırlattı"
+  },
+  {
+    "arabic_word": "أَوْحَى",
+    "turkish_meaning": "Vahyetti , ilham etti"
+  },
+  {
+    "arabic_word": "أَوْدَى",
+    "turkish_meaning": "Helake sürükledi"
+  },
+  {
+    "arabic_word": "أَوْعَى",
+    "turkish_meaning": "İyice kavradı , ezberledi"
+  },
+  {
+    "arabic_word": "أَوْفَى",
+    "turkish_meaning": "Vefalı oldu,sözünde durdu"
+  },
+  {
+    "arabic_word": "بَرَّأَ",
+    "turkish_meaning": "Akladı,temize çıkardı"
+  },
+  {
+    "arabic_word": "دَفَّأَ",
+    "turkish_meaning": "Isıttı"
+  },
+  {
+    "arabic_word": "رَتَّبَ",
+    "turkish_meaning": "Düzenledi"
+  },
+  {
+    "arabic_word": "سَجَّلَ",
+    "turkish_meaning": "Kaydetti"
+  },
+  {
+    "arabic_word": "صَدَّقَ",
+    "turkish_meaning": "Tasdik etti,inandı"
+  },
+  {
+    "arabic_word": "صَدَّقْ",
+    "turkish_meaning": "Tasdik et ! // İnan !"
+  },
+  {
+    "arabic_word": "عَلَّمَ",
+    "turkish_meaning": "Öğretti"
+  },
+  {
+    "arabic_word": "قَدَّمَ",
+    "turkish_meaning": "Sundu"
+  },
+  {
+    "arabic_word": "نَزَّلَ",
+    "turkish_meaning": "İndirdi"
+  },
+  {
+    "arabic_word": "نَظَّفَ",
+    "turkish_meaning": "Temizledi"
+  },
+  {
+    "arabic_word": "هَدَّأَ",
+    "turkish_meaning": "Sakinleştirdi , azalttı"
+  },
+  {
+    "arabic_word": "هَنَّأَ",
+    "turkish_meaning": "Tebrik etti , kutladı"
+  },
+  {
+    "arabic_word": "هَنَّئْ",
+    "turkish_meaning": "Tebrik et ! // Kutla !"
+  },
+  {
+    "arabic_word": "يُضِلُّ",
+    "turkish_meaning": "Saptırıyor"
+  },
+  {
+    "arabic_word": "يُطِىعُ",
+    "turkish_meaning": "İtaat ediyor"
+  },
+  {
+    "arabic_word": "يُعْطِي",
+    "turkish_meaning": "Veriyor"
+  },
+  {
+    "arabic_word": "يُوقِظُ",
+    "turkish_meaning": "Uyandırıyor"
+  },
+  {
+    "arabic_word": "يُوقِفُ",
+    "turkish_meaning": "Durduruyor"
+  },
+  {
+    "arabic_word": "يُؤْتِي",
+    "turkish_meaning": "Veriyor"
+  },
+  {
+    "arabic_word": "إِيتَاءٌ",
+    "turkish_meaning": "Vermek"
+  },
+  {
+    "arabic_word": "إِيثَارٌ",
+    "turkish_meaning": "Tercih etmek"
+  },
+  {
+    "arabic_word": "إِيفَاءٌ",
+    "turkish_meaning": "Vefalı olmak"
+  },
+  {
+    "arabic_word": "إِيقَاظٌ",
+    "turkish_meaning": "Uyandırmak"
+  },
+  {
+    "arabic_word": "إِيقَافٌ",
+    "turkish_meaning": "Durdurmak"
+  },
+  {
+    "arabic_word": "أَحْضَرَ",
+    "turkish_meaning": "Getirdi"
+  },
+  {
+    "arabic_word": "أَخْرَجَ",
+    "turkish_meaning": "Çıkardı"
+  },
+  {
+    "arabic_word": "أَصْلَهَ",
+    "turkish_meaning": "Onardı"
+  },
+  {
+    "arabic_word": "أَكْرَمَ",
+    "turkish_meaning": "İkram etti , sundu"
+  },
+  {
+    "arabic_word": "أَكْرِمْ",
+    "turkish_meaning": "İkram et ! // Sun !"
+  },
+  {
+    "arabic_word": "أَكْمَلَ",
+    "turkish_meaning": "Tamamladı"
+  },
+  {
+    "arabic_word": "أَنْزَلَ",
+    "turkish_meaning": "İndirdi"
+  },
+  {
+    "arabic_word": "أَهْلَكَ",
+    "turkish_meaning": "Helak etti"
+  },
+  {
+    "arabic_word": "أَوْجَزَ",
+    "turkish_meaning": "Özetledi"
+  },
+  {
+    "arabic_word": "أَوْصَلَ",
+    "turkish_meaning": "Ulaştırdı,götürdü"
+  },
+  {
+    "arabic_word": "أَوْضَحَ",
+    "turkish_meaning": "Açıkladı,izah etti"
+  },
+  {
+    "arabic_word": "أَوْقَفُ",
+    "turkish_meaning": "Durdurdu"
+  },
+  {
+    "arabic_word": "أَوْقِفْ",
+    "turkish_meaning": "Durdur !"
+  },
+  {
+    "arabic_word": "أَيْبَسَ",
+    "turkish_meaning": "Kuruttu"
+  },
+  {
+    "arabic_word": "أَيْسَرَ",
+    "turkish_meaning": "Varlıklı ve müreffeh oldu"
+  },
+  {
+    "arabic_word": "أَيْقَظَ",
+    "turkish_meaning": "Uyandırdı"
+  },
+  {
+    "arabic_word": "أَيْقَنَ",
+    "turkish_meaning": "Kesin olarak bildi"
+  },
+  {
+    "arabic_word": "أَيْقِظْ",
+    "turkish_meaning": "Uyandır ! // İkaz et !"
+  },
+  {
+    "arabic_word": "يُكْرِمُ",
+    "turkish_meaning": "İkram ediyor , sunuyor"
+  },
+  {
+    "arabic_word": "يُؤْثِرُ",
+    "turkish_meaning": "Tercih ediyor"
+  },
+  {
+    "arabic_word": "إِضْلَالٌ",
+    "turkish_meaning": "Saptırmak"
+  },
+  {
+    "arabic_word": "إِطَاعَةٌ",
+    "turkish_meaning": "İtaat etmek"
+  },
+  {
+    "arabic_word": "إِعْطَاءٌ",
+    "turkish_meaning": "Vermek"
+  },
+  {
+    "arabic_word": "إِكْرَامً",
+    "turkish_meaning": "İkram etmek"
+  },
+  {
+    "arabic_word": "تَصْدِيقٌ",
+    "turkish_meaning": "Tasdik etmek"
+  },
+  {
+    "arabic_word": "يُصَدَّقُ",
+    "turkish_meaning": "Tasdik ediyor,inanıyor"
+  },
+  {
+    "arabic_word": "يُهَنَّئُ",
+    "turkish_meaning": "Tebrik ediyor ,kutluyor"
+  },
+  {
+    "arabic_word": "تَهْنِءَةٌ",
+    "turkish_meaning": "Tebrik etmek"
+  }
+]
